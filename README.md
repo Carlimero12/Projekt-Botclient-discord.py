@@ -8,5 +8,5 @@ It works by Opening an Tk file withn some setting
 # Changelog
 
 Beta v1.0.0:
-  Basic Features Added
-  Waiting for requests to Add More 
+-Basic Features Added 
+-Waiting for requests to Add More
