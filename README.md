@@ -9,5 +9,4 @@ It works by Opening an Tk file withn some setting
 
 Beta v1.0.0:
   -Basic Features Added
-  -Waiting for requests to Add More ;)
-  -
+  -Waiting for requests to Add More 
