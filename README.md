@@ -1,9 +1,22 @@
 # Projekt-Botclient-discord.py
-This is an Tk and Discord.py based Botclient
-it will install all needed packages
+This is an Tk and Discord.py based discord Botclient.
+It will install all needed packages with the Installer.
 
 # Functionality
-It works by Opening an Tk file withn some setting
+It works by Opening an Tk GUI with the guilds etc. listet in there
+
+# What's not included
+* Working Voice Channel Support
+* No Form's / Polls
+* No Channel deletion
+* No Events
+
+# What's Included
+* DM texting
+* Guild Texting
+* Presence Change
+* Emoji
+* IDK
 
 # Changelog
 
